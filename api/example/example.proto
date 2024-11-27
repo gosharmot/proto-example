@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package github.com.gosharmot.example.api.example;
+
+option go_package = "github.com/gosharmot/proto-example/pkg/api/example";
+
+message Empty {}

@@ -1,0 +1,3 @@
+local_proto:
+    - api/example/example.proto
+external_proto: []
